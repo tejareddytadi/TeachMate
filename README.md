@@ -13,3 +13,5 @@ Progress Tracking: Monitors user performance to provide insights and feedback.
 
 User-Friendly Interface: Simple and clean design for ease of use, built with responsiveness in mind.
 
+![TeachMate Screenshot](img/teachmate_1.png)
+
