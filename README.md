@@ -13,10 +13,3 @@ Progress Tracking: Monitors user performance to provide insights and feedback.
 
 User-Friendly Interface: Simple and clean design for ease of use, built with responsiveness in mind.
 
-Project Status 🚧
-
-The project is currently ongoing.
-
-Phase 1 (Completed): Chatbot implementation using Retrieval-Augmented Generation (RAG) is done. The chatbot is live and functional.
-
-Phase 2 (In Progress): We are now focusing on developing the adaptive testing feature and building the full website.
